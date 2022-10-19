@@ -1,12 +1,12 @@
 Workout
 
 100 | Russian twists 	  (50 Side)
-20  | Push Ups
+20  | Squats
 100 | Flutter kicks 		(50 Leg)
-20  | Push Ups
+20  | Squats
 50  | Bodyweight Crunch
-20  | Push Ups
+20  | Squats
 100 | Heel touch			  (50 Side)
-20  | Push Ups
+20  | Squats
 100 | Mountain Climbers	(50 Leg)
-20  | Push Ups
+20  | Squats
