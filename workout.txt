@@ -1,6 +1,6 @@
-Workout
+Leg Workout
 
-100 | Russian twists 	  (50 Side)
+100 | Russian twists    (50 Side)
 20  | Squats
 100 | Flutter kicks     (50 Leg)
 20  | Squats
@@ -8,5 +8,5 @@ Workout
 20  | Squats
 100 | Heel touch        (50 Side)
 20  | Squats
-100 | Mountain Climbers	(50 Leg)
+100 | Mountain Climbers (50 Leg)
 20  | Squats
